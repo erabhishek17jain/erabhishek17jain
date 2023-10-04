@@ -29,53 +29,44 @@ Collaborating with cross-functional teams and turning ideas into reality brings 
      
 ### 🛠️ Skills
 
-#### Languages
+#### Frontend Technologies
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Reactjs](https://img.shields.io/badge/React-white?&logo=react&logoColor=black)&nbsp;
+![Reduxjs](https://img.shields.io/badge/Redux-white?style=flat&logo=redux&logoColor=black)&nbsp;
+![Nextjs](https://img.shields.io/badge/Next.js-white?style=flat&logo=Next.js&logoColor=black)&nbsp;
+![Javascript](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=black)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-white?style=flat&logo=typescript&logoColor=black)&nbsp;
+![Jquery](https://img.shields.io/badge/jQuery-white?style=flat&logo=jquery&logoColor=black)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind-white?style=flat&logo=Tailwind+CSS&logoColor=black)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat&logo=bootstrap&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-white?style=flat&logo=HTML5&logoColor=black)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-white?style=flat&logo=CSS3&logoColor=black)&nbsp;
 
-
-#### Development
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
-![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)&nbsp;
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white)
-<!--      
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) -->
-<!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp; -->
-
+#### Backend Technologies
+![Node.js](https://img.shields.io/badge/-Node.js-white?style=flat&logo=node.js&logoColor=black)&nbsp;
+![Express.js](https://img.shields.io/badge/express-white?style=flat&logo=express&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-white?style=flat&logo=GraphQL&logoColor=black)
+![Apollo Client](https://img.shields.io/badge/ApolloClient-white?style=flat&logo=Apollo+GraphQL&logoColor=black)
 
 #### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
+![MongoDb](https://img.shields.io/badge/MongoDb-white?style=flat&logo=mongodb&logoColor=black)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-white?style=flat&logo=firebase&logoColor=black)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql&logoColor=black)&nbsp;
+![SQlite](https://img.shields.io/badge/-SQlite-white?style=flat&logo=sqlite&logoColor=black)&nbsp;
 
 #### Tools and Technologies
 
+![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git&logoColor=black)&nbsp;
+![NPM](https://img.shields.io/badge/npm-white?style=flat&logo=npm&logoColor=black)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-white?style=flat&logo=jenkins&logoColor=black)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-white?style=flat&logo=amazon-aws&logoColor=black)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=flat&logo=visual-studio-code&logoColor=black)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black)&nbsp;
 
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
-![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Fast API](https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white)
+#### Languages
+![PHP](https://img.shields.io/badge/PHP-white?style=flat&logo=PHP&logoColor=black)&nbsp;
 
-<!-- ![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat&logo=pypi&logoColor=white)&nbsp; -->
-
-
-#### Data Analytics 
-
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
-     
 </td>
     <td>
   
