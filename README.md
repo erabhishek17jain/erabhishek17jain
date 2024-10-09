@@ -1,4 +1,4 @@
-[![ProfileBanner](https://media.licdn.com/dms/image/D4D16AQE24PIXJOQMuA/profile-displaybackgroundimage-shrink_350_1400/0/1688494253706?e=1701907200&v=beta&t=5tnYHgEpH4pSdaEk6DAqeEhg8DkE322bgt7PskmH3_U)](https://erabhishek17jain.github.io)
+[![ProfileBanner](https://erabhishek17jain.netlify.app/assets/profile.da7bc2fb.jpg)](https://erabhishek17jain.github.io)
 
 ### Hi there 👋 I am [Abhishek Jain](https://erabhishek17jain.netlify.app/)
 
